@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tytus-Harlender
 - 👀 I’m interested in OOP (.NET/C#)
-- 🌱 I’m currently learning WPF and T-SQL
+- 🌱 I’m currently learning Unit testing
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 ;)
 
