@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tytus-Harlender
-- 👀 I’m interested in OOP (.NET/C#)
-- 🌱 I’m currently learning proper threads management
-- 💞️ I’m looking to collaborate on interesting projects!
-- 📫 ;)
+- 👀 OOP (.NET/C#) is in the scope of my intrest
+- 🌱 Currently learning proper threads management
+- 📫 Looking to collaborate on interesting projects!
 
 <!---
 Tytus-Harlender/Tytus-Harlender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
