@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tytus-Harlender
-- 👀 OOP (.NET/C#) is in the scope of my intrest
-- 🌱 Currently learning proper threads management
+- 👀 Engineering is in the scope of my intrest
+- 🌱 Currently learning ASP.NET Core
 - 📫 Looking to collaborate on interesting projects!
 
 <!---
