@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tytus-Harlender
-- 👀 Engineering is in the scope of my intrest
+- 👀 Fullstack web app development is in the scope of my intrest
 - 🌱 Currently learning ASP.NET Core
 - 📫 Looking to collaborate on interesting projects!
 
